@@ -1,0 +1,10 @@
+//_hiddenCategory_\:http\://jboss.com/products/seam/taglib=false
+//_hiddenCategory_\:http\://struts.apache.org/tags-bean=false
+//_hiddenCategory_\:http\://struts.apache.org/tags-html=false
+//_hiddenCategory_\:http\://struts.apache.org/tags-logic=false
+//_hiddenCategory_\:http\://struts.apache.org/tags-nested=false
+_hiddenCategory_\:HTML=false
+_hiddenCategory_\:ManagedBeans=false
+_hiddenCategory_\:PageVariables=false
+_hiddenCategory_\:jsp11=false
+eclipse.preferences.version=1

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+	<class name="com.easylearnjava.dto.User" table="user">
+		<id name="userId" column="user_id"></id>
+		<property name="userName" column="user_name"></property>
+		<property name="password" column="user_password"></property>
+	</class>
+	
+</hibernate-mapping>
